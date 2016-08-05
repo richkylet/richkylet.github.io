@@ -1,11 +1,13 @@
 ---
-layout: single
+layout: default
 title: About
 permalink: /About/
 published: true
 ---
 
-Hello, my name is Kyle T. Rich. I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati.  
+Hello, my name is Kyle T. Rich. 
+
+I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati.  
 
 ### More Information
 
