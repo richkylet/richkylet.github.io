@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Kyle T. Rich -- Home"
 title_separator          : "-"
 name                     : "Kyle T. Rich"
-description              : "An amazing website."
+description              : " "
 url                      : https://richkylet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
