@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: About
-permalink: /About/
+permalink: 
 published: true
 ---
 ### General 
