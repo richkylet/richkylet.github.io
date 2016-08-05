@@ -4,7 +4,7 @@ title: About
 permalink: null
 published: true
 ---
-Johnny Coder
+Johnny Codar
 ============
 
 -------------------     ----------------------------
