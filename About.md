@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: About
 permalink: /About/
 published: true
