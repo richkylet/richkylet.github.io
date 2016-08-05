@@ -1,5 +1,5 @@
 ----
-layout: cv
+layout: splash
 title: CV
 permalink: /CV/
 published: true
