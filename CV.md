@@ -1,8 +1,9 @@
-
----
+----
 layout: cv
-title: Eliseo Papa's CV
----
+title: CV
+permalink: /CV/
+published: true
+----
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
