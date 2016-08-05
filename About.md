@@ -4,16 +4,19 @@ title: About
 permalink: /About/
 published: true
 ---
+### General 
 
 Hello, my name is Kyle T. Rich. 
 
-I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati.  
+I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati, located in Cincinnati, OH.   
+
 
 ### Professional:
-
-Please see my insert CV link here and
+Please see my full [CV](richkylet.github.io/images/cv_5.pdf) and/or
 [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 ### Best way to contact me
-
 [richkylet@gmail.com](mailto:richkylet@gmail.com)
+
+## Personal
+
