@@ -1,3 +1,11 @@
+---
+layout: splash
+title: CV
+permalink: null
+published: true
+---
+
+
 Kyle . Rich
 ============
 
