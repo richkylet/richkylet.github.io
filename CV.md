@@ -88,6 +88,6 @@ Extra Section, Call it Whatever You Want
      * ???
      * This is what a nested list looks like.
 
-* Random tidbit
+* Random tit
 
 * Other sort of impressive-sounding thing you did
