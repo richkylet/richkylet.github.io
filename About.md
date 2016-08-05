@@ -12,7 +12,7 @@ I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati, l
 
 
 ### Professional:
-Please see my full [CV](richkylet.github.io/images/cv_5.pdf) and/or
+Please see my full [CV](/images/cv_5.pdf) and/or
 [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 ### Best way to contact me
