@@ -1,19 +1,93 @@
+Kyle T. Rich
+============
 
-<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="author" content="Kyle T. Rich"/><meta name="keywords" content="Kyle T. Rich, curriculum vitæ, resumé"/><meta name="description" content="Resumé of Kyle T. Rich"/><title>Kyle T. Rich – </title><style type="text/css"><!--
-  .s1 { color: #1F1F1F; font-family: serif; font-style: italic; font-weight: normal; font-size: 10pt; }
- .s2 { color: #1F1F1F; font-family: serif; font-weight: normal; font-size: 10pt; }
- .s3 { font-family: serif; font-weight: normal; font-size: 33.5pt; }
- .s4 { color: #1F1F1F; font-family: serif; font-weight: normal; font-size: 14pt; }
- .s5 { color: #1F1F1F; font-family: serif; font-weight: normal; font-size: 10pt; }
- a { color: #1F1F1F; font-family: serif; font-style: italic; font-weight: normal; font-size: 10pt; }
- .s6 { color: #970000; font-family: serif; font-weight: normal; font-size: 14pt; }
- p { font-family: serif; font-weight: normal; font-size: 11pt; }
- .s8 { font-family: serif; font-weight: normal; font-size: 10pt; }
- .s9 { color: #970000; font-family: serif; font-weight: normal; font-size: 11pt; }
- .h1, h1 { color: #970000; font-family: serif; font-weight: bold; font-size: 12pt; }
- .s11 { color: #970000; font-family: serif; font-weight: normal; font-size: 12pt; }
- .s12 { color: #7F7F7F; font-family: serif; font-style: italic; font-weight: normal; font-size: 10pt; }
- .s13 { color: #970000; font-family: serif; font-weight: normal; font-size: 10pt; }
-  -->
-</style></head><body><p class="s1">231 Albert  Sabin Way</p><p class="s1">3960 Cardiovascular  Center  ML 0586</p><p class="s1">Cincinnati, OH 45267-0586</p><p class="s2">� <i>(859) 640–8052</i></p><p class="s3">Kyle T. Rich</p><p class="s4">&#39;-1</p><p><a href="mailto:richkylet@gmail.com" class="s5">[8: </a><a href="http://https://richkylet.github.io">richkylet@gmail.com https://richkylet.github.io</a><br/><span><IMG width="82" height="6" src="cv_5/Image_001.png"/></span></p><p class="s6">Education</p><p>2016   <b>University of Cincinnati</b>, <i>PhD candidate</i>,  Biomedical Engineering.</p><p class="s8">Cincinnati, OH</p><p>2008   <b>Northern Kentucky University</b>, <i>BS</i>, Physics.</p><p class="s8">Highland  Heights,  KY</p><p><span><IMG width="82" height="6" src="cv_5/Image_002.png"/></span></p><p class="s6">Research  Experience</p><p>2009 – 2016   <b>Biomedical  Acoustics  Laboratory</b>, <i>University of Cincinnati</i>, Cincinnati, OH.</p><p class="s9">o <span style=" color: #000;">Identified  mechanisms  of ultrasound-enhanced skin permeability (sonophoresis)</span></p><h1>- <span class="s8">Investigated ultrasound-enhanced transdermal delivery of nanoscaled  drugs</span></h1><p class="s8"><span class="h1">- </span>Developed an <i>in vitro </i>sonophoresis  system  for autonomous (MATLAB) treatment and data  aquisition</p><h1>- <span class="s8">Conducted spectral  analysis  of acoustically-measured cavitation bubble  emissions (MATLAB)</span></h1><h1>- <span class="s8">Conducted data/statistical analyses on measured  quantities (MATLAB/R)</span></h1><p class="s9">o <span style=" color: #000;">Developed quantitative and system-independent acoustic measurement and analysis techniques  for monitoring  acoustic  cavitation activity</span></p><h1>- <span class="s8">Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic  fields</span></h1><h1>- <span class="s8">Developed standard techniques  for quantitative acoustic  measurements</span></h1><h1>- <span class="s8">Developed theory  for quantifying cavitation activity from quantitative acoustic  measurements</span></h1><h1>- <span class="s8">Conducted validation simulations  (Monte  Carlo)  and measurements</span></h1><p>2007 – 2008   <b>Solid State Physics Lab</b>, <i>Northern  Kentucky Universtiy</i>, Highland  Heights,  KY.</p><p class="s9">o <span style=" color: #000;">Investigated the  crystalline  structure and  electrical  properties  of bulk-produced  CoFe(x)O(y) (cobalt  ferrite)  composites  for potential pressure  sensors applications</span></p><p><span><IMG width="82" height="6" src="cv_5/Image_003.png"/></span></p><p class="s6">Publications</p><p class="s11">Peer-reviewed manuscripts</p><p>[P1] <b>K.  T.  Rich</b>, C. L. Hoerig, M. B. Rao, and T. D. Mast,  “Relations  between  acoustic cavita- tion and skin resistance  during  intermediate- and high-frequency  sonophoresis,”  <i>J.  Control. Release</i>, vol. 194, pp. 266–277, 2014.<br/>[P2] <b>K.  T.  Rich </b>and T. D. Mast,  “Methods  to calibrate the absolute  receive sensitivity of single- element,  focused  transducers,” <i>J.  Acoust.   Soc.  Am.   </i>,  vol. 138,  no.  3,  pp.  EL193–EL198,<br/>2015.<br/>[P3] <b>K.  T.  Rich </b>and  T. D. Mast,  “Accuracy  of a bistatic scattering substitution technique for calibration of focused receivers,”  <i>J.  Acoust.  Soc.  Am.  </i>, vol. 138, no. 5, pp.  EL469–EL473,<br/>2015.</p><p class="s11">Under review</p><p>[U1] K. J. Haworth,  K. B. Bader,  <b>K.  T.  Rich</b>, C. K. Holland,  T. D. Mast, “Frequency-domain passive imaging of ultrasonics emissions,” <i>IEEE  Trans. Ultrason., Ferroelect.,  Freq.  Control</i>. (submitted 3/2016)</p><p class="s12">Page 1 of 2</p><p class="s11">Conference abstracts, proceedings, and presentations</p><p>[C1] <b>K. T. Rich</b>, T. D. Mast., A method to calibrate the absolute receive sensitivity of spherically focused, single-element transducers. J Acoust Soc Am 136, 2302 (presentation and published abstract) (2014).<br/>[C2] <b>K. T. Rich.</b>, C. L. Hoerig, and T. D. Mast, “Cavitation mechanisms in ultrasound-enhanced permeability of <i>ex vivo </i>porcine skin,” <i>Proc.  Mtgs.  Acoust.</i>, vol. 18, no. 1, (2014).<br/>[C3] <b>K.  T.  Rich</b>, C. L. Hoerig,  T.  D. Mast.   “Cavitation mechanisms  in  ultrasound-enhanced permeability of ex vivo porcine skin,” Proceedings  of Meetings on Acoustics 18:075002 (pre- sentation, poster,  published  abstract and proceeding)  (2012).<br/>[C4] <b>K.  T.  Rich</b>, S. Nye,  M.  Ericson,  R.  Hoerr,  T.  D.  Mast.    “Visualization of  Ultrasound- Enhanced Delivery of Polystyrene Nanoparticles into Ex Vivo Human Skin via the Follicular Route.”  Regional Symposium  on Applications of Bio-membranes in Science and Technology, (poster) (2011)<br/>[C5] <b>K.   T.   Rich</b>,  M  Burgess,  S  Nye,  M  Lee,  B  Posey,  M  Ericson,  R  Hoerr,  T.  D.  Mast. “Ultrasound-mediated dermal and transdermal delivery of nanoformulated drugs.” NSF Mini- mally Invasive Medical Technologies Center  (MIMTeC)  biannual  meeting,  (presentation and poster)  (2009)<br/><span><IMG width="82" height="6" src="cv_5/Image_004.png"/></span></p><p class="s6">Academic  Honors &amp; Awards</p><p>2013-14   Editorial Assistantship: Ultrasound in Medicine and Biology journal<br/>2011-12, 13   National  Science Foundation, Integrative Graduate Education and Research Traineeship, Biomem- brane  Research<br/>2010   American  Institute of Physics,  Physical  Acoustics Summer  School Scholarship<br/><span><IMG width="82" height="6" src="cv_5/Image_005.png"/></span></p><p class="s6">Teaching  and  Leadership  Experience</p><p>2008–10   <b>Teaching Assistant</b>,  <i>University of Cincinnati</i>.</p><p class="s13">o <span style=" color: #000;">Modeling and Analysis of Systems (BME  306)</span></p><p class="s13">o <span style=" color: #000;">Biomedical  Instrumentation (BME  310)</span></p><p>2008   <b>Undergraduate Mentor and  Teaching Assistant</b>, <i>Northern  Kentucky University</i>.</p><p class="s13">o <span style=" color: #000;">Introduction to Physics  (PHY  110)</span></p><p><span><IMG width="82" height="6" src="cv_5/Image_006.png"/></span></p><p class="s6">Professional  Affiliations and  Positions Held</p><p>2011–16    University  of Cincinnati Student Chapter of the Acoustical  Society of America; Member<br/>2013–14   University  of Cincinnati Student Chapter of the Acoustical Society of America; Representative to<br/>National  Committee<br/>2010-16   Sigma Xi, Associate Member<br/>2009–16   Acoustical  Society of America,  Student Member<br/>2007–08   Northern Kentucky  University  Physics  Students Club,  Vice President</p><p class="s12">Page 2 of 2</p></body></html>
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
+
+Education
+---------
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
+Experience
+----------
+
+**Your Most Recent Work Experience:**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+* First item
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
+
+Technical Experience
+--------------------
+
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
+
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
+
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
+
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
+
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
+
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
+
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+Extra Section, Call it Whatever You Want
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
+
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
