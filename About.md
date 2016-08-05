@@ -19,4 +19,3 @@ Please see my full [CV](richkylet.github.io/images/cv_5.pdf) and/or
 [richkylet@gmail.com](mailto:richkylet@gmail.com)
 
 ## Personal
-
