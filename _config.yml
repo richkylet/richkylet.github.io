@@ -197,7 +197,19 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
+      
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
