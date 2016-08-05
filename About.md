@@ -9,12 +9,11 @@ Hello, my name is Kyle T. Rich.
 
 I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati.  
 
-### More Information
+### Professional:
 
-For more information about my work, please see my 
-insert CV link here and
+Please see my insert CV link here and
 [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
-### Contact me
+### Best way to contact me
 
 [richkylet@gmail.com](mailto:richkylet@gmail.com)
