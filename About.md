@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: About
-permalink: 
+permalink: null
 published: true
 ---
 ### General 
@@ -12,7 +12,7 @@ I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati, l
 
 
 ### Professional:
-Please see my full CV  [pdf](/images/cv_5.pdf) and/or
+Please see my full [CV](/CV)  ([pdf](/images/cv_5.pdf)) and/or
 [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 ### Best way to contact me
