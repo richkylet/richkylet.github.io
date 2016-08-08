@@ -63,10 +63,13 @@ analytics:
 author:
   name             : "Kyle T. Rich"
   avatar           : "heythatsme.jpg"
-  bio              : " something about me"
+  bio              : " " # say something about yourself
   location         : "Cincinnati, OH"
   email            : richkylet@gmail.com
   linkedin         : kyletrich
+  github           : richkylet
+  instagram        : keister911
+  twitter          : KeisterT
   uri              :
   bitbucket        :
   codepen          :
@@ -74,17 +77,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : richkylet
   google_plus      :
   keybase          :
-  instagram        : keister911
   lastfm           :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : KeisterT
   vine             :
   weibo            :
   xing             :
