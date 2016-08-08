@@ -19,7 +19,6 @@ Curriculum Vitae: <script type="text/javascript" src="https://platform.linkedin.
 Contact me: <richkylet@gmail.com.com>
 
 
-
 Education 
 ---------
 
