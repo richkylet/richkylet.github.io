@@ -35,6 +35,7 @@ Education
 
     *Minor: Mathematics*
 
+
 Experience
 ----------
 
@@ -51,6 +52,7 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 * Developed theory for quantifying cavitation activity from quantitative acoustic measurements
 * Conducted validation simulations (Monte Carlo) and measurements 
 
+
 **Underaduate Research Assistant: Solid State Physics Lab, Northern Kentucky University**
 
 Investigated the crystalline structure and electrical properties of bulk-produced CoFe(x)O(y) (cobalt ferrite) composites for potential pressure sensors applications
@@ -62,13 +64,9 @@ Technical Skills
 
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Software/Programming::** MATLAB, LaTeX, Mathematica, Unix/Linux environment  
+
+	* basic knowledge: R, SAS, Python (SciPy, Matplotlib, NumPy, Pandas)
 
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
