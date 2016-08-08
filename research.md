@@ -11,3 +11,4 @@ Bubbles may interact with tissue during therapeutic ultrasound and enhance the t
 Below is an example depicting the potential interaction of cavitation bubbles with skin during sonophoresis, a treatment that employs ultrasound to increase the permeability of skin for enhanced drug delivery:
 
 
+![]({{site.baseurl}}/images/skin_cavitation.jpg?raw=true)
