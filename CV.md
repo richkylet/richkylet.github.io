@@ -13,7 +13,9 @@ Kyle T. Rich
   
 -------------------     			----------------------------
 231 Albert Sabin Way                mailto:richkylet@gmail.com
+
 3960 Cardiovascular Center ML 0586  [LinkedIn: Kyle T. Rich](www.linkedin.com/in/kyletrich)
+
 Cincinnati, OH 45267-0586           (859) 640-8052
 -------------------     			----------------------------
 
