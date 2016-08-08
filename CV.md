@@ -121,3 +121,18 @@ Editorial Assistantship: Ultrasound in Medicine and Biology (2013-14)
 National Science Foundation, Integrative Graduate Education and Research Traineeship, Biomembrane Research (2011-12, 12-13)
 
 American Institute of Physics, Physical Acoustics Summer School Scholarship (2010)
+
+
+
+Teaching and LEadership Experience
+----------------------------------------
+* Teaching Assistant, University of Cincinnati
+
+	* Modeling and Analysis of Systems (BME 306)
+
+	* Biomedical Instrumentation (BME 310)
+    
+* Undergraduate Mentor and Teaching Assistant, Northern Kentucky University
+
+	* Introduction to Physics (PHY 110)
+    
