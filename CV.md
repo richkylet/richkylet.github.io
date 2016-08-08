@@ -51,6 +51,7 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 * Identified [mechanisms of ultrasound-enhanced skin permeability (sonophoresis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)
 * Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic fields 
 * Developed [standard techniques for quantitative acoustic measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) 
+* Developed [standard guidlines for accurate calibration measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
 * Developed theory for quantifying cavitation activity from quantitative acoustic measurements
 * Conducted validation simulations (Monte Carlo) and measurements 
 
