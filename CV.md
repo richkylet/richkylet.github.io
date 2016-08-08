@@ -31,8 +31,8 @@ Education
 
     *Thesis title: *
 
-2007-2010
-:   **BSc, Physics**; Northern Kentucky University (Highland Heights, KY)
+2008: BSc, Physics
+:   **Northern Kentucky University**  Highland Heights, KY
 
     *Minor: Mathematics*
 
