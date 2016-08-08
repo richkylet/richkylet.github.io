@@ -35,9 +35,7 @@ Experience
 
 **Graduate Research Assistant: Biomedical Acoustics Laboratory, University of Cincinnati**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Conducted experiments, numerical simulations, and theoretical analysis to solve biomedical acoustics problems. Included in these investigations was the quantitative detection and analysis of acoustic emissions from cavitating bubbles during sonophoresis. 
 
 * First item
 
