@@ -11,7 +11,7 @@ Kyle T. Rich
  Please see my full CV ([pdf](/images/cv_5.pdf)) and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
   
--------------------     			----------------------------
+-------------------     			
 231 Albert Sabin Way                
 3960 Cardiovascular Center ML 0586 
 Cincinnati, OH 45267-0586           
@@ -46,7 +46,10 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 * Developed an \textit{in vitro} sonophoresis system for autonomous (MATLAB) treatment and data aquisition
 * Conducted spectral analysis of acoustically-measured cavitation bubble  emissions (MATLAB)
 * Conducted data/statistical analyses on measured quantities (MATLAB/R) 
-
+* Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic fields %(MATLAB)
+* Developed standard techniques for quantitative acoustic measurements %calibrating the receive sensitivity of single-element ultrasound transducers for
+* Developed theory for quantifying cavitation activity from quantitative acoustic measurements
+* Conducted validation simulations (Monte Carlo) and measurements 
 
 **That Other Job You Had**
 
