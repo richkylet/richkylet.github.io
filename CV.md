@@ -73,7 +73,6 @@ Technical Skills
 :   **Statistical:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
