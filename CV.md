@@ -40,6 +40,14 @@ Education
 Technical Skills
 --------------------
 
+#Software/Programming#
+
+#Technical#
+
+#third#
+
+
+
 **Software/Programming:** MATLAB, LaTeX, Mathematica, Unix/Linux environment, R\*, SAS\*, Python (SciPy, Matplotlib, NumPy, Pandas)\*  
 
 : \* basic knowledge
