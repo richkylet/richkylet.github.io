@@ -35,14 +35,15 @@ Education
 Experience
 ----------
 
-**Graduate Research Assistant: Biomedical Acoustics Laboratory, University of Cincinnati**
+**Graduate Research Assistant: [Biomedical Acoustics Laboratory, University of Cincinnati](http://med.uc.edu/ultrasound)**
 
 Conducted experiments, numerical simulations, and theoretical analysis to solve biomedical acoustics problems. Included in these investigations was the quantitative detection and analysis of acoustic emissions from cavitating bubbles during sonophoresis. 
 
-* First item
+* Investigated ultrasound-enhanced transdermal delivery of nanoscaled drugs
+* Developed an \textit{in vitro} sonophoresis system for autonomous (MATLAB) treatment and data aquisition
+* Conducted spectral analysis of acoustically-measured cavitation bubble  emissions (MATLAB)
+* Conducted data/statistical analyses on measured quantities (MATLAB/R) 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 **That Other Job You Had**
 
