@@ -12,11 +12,14 @@ Kyle T. Rich
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
   
 -------------------     			----------------------------
-231 Albert Sabin Way                mailto:richkylet@gmail.com
+231 Albert Sabin Way                
+3960 Cardiovascular Center ML 0586 
+Cincinnati, OH 45267-0586           
+cell: (859) 640-8052
 
-3960 Cardiovascular Center ML 0586  [LinkedIn: Kyle T. Rich](www.linkedin.com/in/kyletrich)
+<richkylet@gmail.com.com>
+[LinkedIn: Kyle T. Rich](www.linkedin.com/in/kyletrich)
 
-Cincinnati, OH 45267-0586           (859) 640-8052
 -------------------     			----------------------------
 
 Education
