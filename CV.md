@@ -116,7 +116,7 @@ Academic Awards
 
 
 
-Teaching and LEadership Experience
+Teaching and Leadership Experience
 ----------------------------------------
 * Teaching Assistant, University of Cincinnati
 
@@ -127,3 +127,13 @@ Teaching and LEadership Experience
 * Undergraduate Mentor and Teaching Assistant, Northern Kentucky University
 
 	* Introduction to Physics (PHY 110)
+    
+    
+    
+Professional Affiliations and Positions Held
+----------------------------------------
+* University of Cincinnati Student Chapter of the Acoustical Society of America; Member (2011--16)
+* University of Cincinnati Student Chapter of the Acoustical Society of America; Representative to National Committee (2013-14) 
+				\cvitem{2010-16}{Sigma Xi, Associate Member}
+				\cvitem{2009--16}{Acoustical Society of America, Student Member}
+				\cvitem{2007--08}{Northern Kentucky University Physics Students Club, Vice President}
