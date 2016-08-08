@@ -12,10 +12,10 @@ I'm a PhD candidate in Biomedical Engineering at the University of Cincinnati, l
 
 
 ### Professional:
-Please see my full [CV](/CV)  ([pdf](/images/cv_5.pdf)) and/or
-[list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
+Please see my full [CV](/CV)  ([download pdf](/images/cv_5.pdf)),
+[list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ), or [LinkedIn](https://www.linkedin.com/in/kyletrich).
 
-### Best way to contact me
+### Contact me:
 [richkylet@gmail.com](mailto:richkylet@gmail.com)
 
-## Personal
+
