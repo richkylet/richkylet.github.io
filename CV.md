@@ -40,13 +40,13 @@ Education
 Technical Skills
 --------------------
 
-   **Software/Programming:** MATLAB, LaTeX, Mathematica, Unix/Linux environment, R\*, SAS\*, Python (SciPy, Matplotlib, NumPy, Pandas)\*  
+**Software/Programming:** MATLAB, LaTeX, Mathematica, Unix/Linux environment, R\*, SAS\*, Python (SciPy, Matplotlib, NumPy, Pandas)\*  
 
 : \* basic knowledge
 
-   **Technical:**  Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
+**Technical:**  Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
 
-   **Statistical:** Experience with: regression, uncertainty propagation, correlation,
+**Statistical:** Experience with: regression, uncertainty propagation, correlation,
 distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) analyses of variance and covariance (ANCOVA)
 
 
