@@ -36,6 +36,18 @@ Education
 
     *Minor: Mathematics*
 
+Technical Skills
+--------------------
+
+   **Software/Programming:** MATLAB, LaTeX, Mathematica, Unix/Linux environment, R\*, SAS\*, Python (SciPy, Matplotlib, NumPy, Pandas)\*  
+
+: \* basic knowledge
+
+   **Technical:**  Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
+
+   **Statistical:** Experience with: regression, uncertainty propagation, correlation,
+distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) analyses of variance and covariance (ANCOVA)
+
 
 Experience
 ----------
@@ -61,17 +73,7 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 Investigated the crystalline structure and electrical properties of bulk-produced CoFe(x)O(y) (cobalt ferrite) composites for potential pressure sensors applications
  
  
-Technical Skills
---------------------
 
-   **Software/Programming:** MATLAB, LaTeX, Mathematica, Unix/Linux environment, R\*, SAS\*, Python (SciPy, Matplotlib, NumPy, Pandas)\*  
-
-: \* basic knowledge
-
-   **Technical:**  Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
-
-   **Statistical:** Experience with: regression, uncertainty propagation, correlation,
-distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) analyses of variance and covariance (ANCOVA)
 
 
     
