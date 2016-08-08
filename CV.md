@@ -80,8 +80,8 @@ Publications
 ----------------------------------------
 ** Peer-reviewed:**
 * [**K. T. Rich**, C. L. Hoerig, M. B. Rao, and T. D. Mast, "Relations between acoustic cavitation and skin resistance during intermediate- and high-frequency sonophoresis,"_J. Control. Release_, vol. 194, pp. 266--277, 2014.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)
-* [**K.\ T.\ Rich** and T.\ D.\ Mast, "Methods to calibrate the absolute receive sensitivity of single-element, focused transducers," _J. Acoust. Soc. Am._, vol. 138, no. 3, pp. EL193--EL198, 2015.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C)
-* [**K. T. Rich** and T. D. Mast, "Accuracy of a bistatic scattering substitution technique for calibration of focused receivers," _J. Acoust. Soc. Am._, vol.\ 138, no.\ 5, pp.\ EL469--EL473, 2015.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
+* [**K. T. Rich** and T. D. Mast, "Accuracy of a bistatic scattering substitution technique for calibration of focused receivers," _J. Acoust. Soc. Am._, vol.\ 138, no.\ 5, pp.\ EL469--EL473, 2015.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C)
+* [**K.\ T.\ Rich** and T.\ D.\ Mast, "Methods to calibrate the absolute receive sensitivity of single-element, focused transducers," _J. Acoust. Soc. Am._, vol. 138, no. 3, pp. EL193--EL198, 2015.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
 
 * Random tit
 
