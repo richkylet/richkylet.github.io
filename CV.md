@@ -18,6 +18,7 @@ Cincinnati, OH 45267-0586
 cell: (859) 640-8052
 
 <richkylet@gmail.com.com>
+
 [LinkedIn: Kyle T. Rich](www.linkedin.com/in/kyletrich)
 
 ----------------------------     			
@@ -44,10 +45,10 @@ Experience
 Conducted experiments, numerical simulations, and theoretical analysis to solve biomedical acoustics problems. Included in these investigations was the quantitative detection and analysis of acoustic emissions from cavitating bubbles during sonophoresis. 
 
 * Investigated ultrasound-enhanced transdermal delivery of nanoscaled drugs
-* Developed an \textit{in vitro} sonophoresis system for autonomous (MATLAB) treatment and data aquisition
+* Developed an _in vitro_ sonophoresis system for autonomous (MATLAB) treatment and data aquisition
 * Conducted spectral analysis of acoustically-measured cavitation bubble  emissions (MATLAB)
 * Conducted data/statistical analyses on measured quantities (MATLAB/R) 
-* Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic fields %(MATLAB)
+* Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic fields 
 * Developed standard techniques for quantitative acoustic measurements %calibrating the receive sensitivity of single-element ultrasound transducers for
 * Developed theory for quantifying cavitation activity from quantitative acoustic measurements
 * Conducted validation simulations (Monte Carlo) and measurements 
