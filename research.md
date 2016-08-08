@@ -4,6 +4,8 @@ title: Research
 permalink: null
 published: true
 ---
+[View my publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ) on the researched summarized below. 
+
 
 ### Bubbles and therapeutic ultrasound ###
 Bubbles may interact with tissue during therapeutic ultrasound and enhance the therapeutic effect. The excitation of bubbles by exposure to ultrasound is called acoustic cavitation: the nucleation and subsequent pulsation and/or collapse of a gas-filled bubble that is physically driven by the applied oscillating sound field. A variety of ultrasound-enhanced drug delivery applications are currently being researched including [stroke treatment](http://med.uc.edu/ultrasound/research#topic1) and [transdermal drug delivery](http://www.sciencedirect.com/science/article/pii/S0168365914005896), for example. 
