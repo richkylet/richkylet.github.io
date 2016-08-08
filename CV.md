@@ -24,7 +24,7 @@ cell: (859) 640-8052
 
 ----------------------------     			
 
-Education
+Education 
 ---------
 
 2016 (expected): PhD, Biomedical Engineering
