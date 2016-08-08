@@ -53,25 +53,13 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 
 **Underaduate Research Assistant: Solid State Physics Lab, Northern Kentucky University**
 
-Also with a short description.
-
-Technical Experience
+Investigated the crystalline structure and electrical properties of bulk-produced CoFe(x)O(y) (cobalt ferrite) composites for potential pressure sensors applications
+ 
+ 
+Technical Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -93,6 +81,23 @@ Programming Languages
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
+
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
+
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
+
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
+    
+    
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
