@@ -51,7 +51,7 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 * Developed theory for quantifying cavitation activity from quantitative acoustic measurements
 * Conducted validation simulations (Monte Carlo) and measurements 
 
-**That Other Job You Had**
+**Underaduate Research Assistant: Solid State Physics Lab, Northern Kentucky University**
 
 Also with a short description.
 
