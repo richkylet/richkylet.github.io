@@ -85,7 +85,7 @@ Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=e
 
 * **K. T. Rich** and T. D. Mast, ["Accuracy of a bistatic scattering substitution technique for calibration of focused receivers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) _J. Acoust. Soc. Am._, vol.\ 138, no.\ 5, pp.\ EL469--EL473, 2015.]
 
-* **K.\ T.\ Rich** and T.\ D.\ Mast, ["Methods to calibrate the absolute receive sensitivity of single-element, focused transducers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC) _J. Acoust. Soc. Am._, vol. 138, no. 3, pp. EL193--EL198, 2015.]
+* **K. T. Rich** and T. D. Mast, ["Methods to calibrate the absolute receive sensitivity of single-element, focused transducers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC) _J. Acoust. Soc. Am._, vol. 138, no. 3, pp. EL193--EL198, 2015.]
 
 
 **Under Review**
@@ -103,7 +103,3 @@ Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=e
 	* **K. T. Rich**, S. Nye, M. Ericson, R. Hoerr, T. D. Mast. “Visualization of Ultrasound-Enhanced Delivery of Polystyrene Nanoparticles into Ex Vivo Human Skin via the FollicularRoute.” Regional Symposium on Applications of Bio-membranes in Science and Technology,(poster) (2011)
 
 	* **K. T. Rich**, M Burgess, S Nye, M Lee, B Posey, M Ericson, R Hoerr, T. D. Mast.“Ultrasound-mediated dermal and transdermal delivery of nanoformulated drugs.” NSF MinimallyInvasive Medical Technologies Center (MIMTeC) biannual meeting, (presentation andposter) (2009)
-
-
-
-
