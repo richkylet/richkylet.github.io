@@ -61,19 +61,13 @@ Investigated the crystalline structure and electrical properties of bulk-produce
 Technical Skills
 --------------------
 
-
-
-Programming Languages
 :   **Software/Programming::** MATLAB, LaTeX, Mathematica, Unix/Linux environment  
 
-	* basic knowledge: R, SAS, Python (SciPy, Matplotlib, NumPy, Pandas)
+	: basic knowledge: R, SAS, Python (SciPy, Matplotlib, NumPy, Pandas)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Technical:**  
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
+:   **Statistical:** We both know this one's pushing
     it.
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
