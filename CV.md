@@ -33,7 +33,7 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Graduate Research Assistant: Biomedical Acoustics Laboratory, University of Cincinnati**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
