@@ -112,3 +112,12 @@ Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=e
 * **K. T. Rich**, S. Nye, M. Ericson, R. Hoerr, T. D. Mast. “Visualization of Ultrasound-Enhanced Delivery of Polystyrene Nanoparticles into Ex Vivo Human Skin via the FollicularRoute.” Regional Symposium on Applications of Bio-membranes in Science and Technology,(poster) (2011)
 
 * **K. T. Rich**, M Burgess, S Nye, M Lee, B Posey, M Ericson, R Hoerr, T. D. Mast.“Ultrasound-mediated dermal and transdermal delivery of nanoformulated drugs.” NSF MinimallyInvasive Medical Technologies Center (MIMTeC) biannual meeting, (presentation andposter) (2009)
+
+
+Academic Awards
+----------------------------------------
+Editorial Assistantship: Ultrasound in Medicine and Biology (2013-14)
+
+National Science Foundation, Integrative Graduate Education and Research Traineeship, Biomembrane Research (2011-12,12-13)
+
+American Institute of Physics, Physical Acoustics Summer School Scholarship (2010)
