@@ -8,7 +8,9 @@ published: true
 
 Kyle T. Rich
 ============
-
+ ### Professional:
+ +Please see my full [CV](/CV)  ([pdf](/images/cv_5.pdf)) and/or
+  [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 -------------------     ----------------------------
 1 MyAddress                        email@example.com
 MyTown 1000                          @twitter_handle
