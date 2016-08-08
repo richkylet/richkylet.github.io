@@ -36,6 +36,7 @@ Education
 
     *Minor: Mathematics*
 
+
 Technical Skills
 --------------------
 
@@ -75,9 +76,6 @@ Investigated the crystalline structure and electrical properties of bulk-produce
  
 
 
-
-    
-
 Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ))
 ----------------------------------------
 
@@ -90,17 +88,17 @@ Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=e
 * **K.\ T.\ Rich** and T.\ D.\ Mast, ["Methods to calibrate the absolute receive sensitivity of single-element, focused transducers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC) _J. Acoust. Soc. Am._, vol. 138, no. 3, pp. EL193--EL198, 2015.]
 
 
-	**Under Review**
+**Under Review**
 
-	* K. J. Haworth, K. B. Bader, **K. T. Rich**, C. K. Holland, T. D. Mast, “Frequency-domain passive imaging of ultrasonics emissions,” IEEE Trans. Ultrason., Ferroelect., Freq. Control. (submitted 3/2016)
+* K. J. Haworth, K. B. Bader, **K. T. Rich**, C. K. Holland, T. D. Mast, “Frequency-domain passive imaging of ultrasonics emissions,” IEEE Trans. Ultrason., Ferroelect., Freq. Control. (submitted 3/2016)
 
-	**Conference abstracts, proceedings, and presentations**
+**Conference abstracts, proceedings, and presentations**
 	
-    * **K. T. Rich**, T. D. Mast., A method to calibrate the absolute receive sensitivity of sphericallyfocused, single-element transducers. J Acoust Soc Am 136, 2302 (presentation and publishedabstract) (2014).
+* **K. T. Rich**, T. D. Mast., A method to calibrate the absolute receive sensitivity of sphericallyfocused, single-element transducers. J Acoust Soc Am 136, 2302 (presentation and publishedabstract) (2014).
 
-	* **K. T. Rich**, C. L. Hoerig, and T. D. Mast, “Cavitation mechanisms in ultrasound-enhancedpermeability of ex vivo porcine skin,” Proc. Mtgs. Acoust., vol. 18, no. 1, (2014).
+* **K. T. Rich**, C. L. Hoerig, and T. D. Mast, “Cavitation mechanisms in ultrasound-enhancedpermeability of ex vivo porcine skin,” Proc. Mtgs. Acoust., vol. 18, no. 1, (2014).
 
-	* **K. T. Rich**, C. L. Hoerig, T. D. Mast. “Cavitation mechanisms in ultrasound-enhancedpermeability of ex vivo porcine skin,” Proceedings of Meetings on Acoustics 18:075002 (presentation,poster, published abstract and proceeding) (2012).
+* **K. T. Rich**, C. L. Hoerig, T. D. Mast. “Cavitation mechanisms in ultrasound-enhancedpermeability of ex vivo porcine skin,” Proceedings of Meetings on Acoustics 18:075002 (presentation,poster, published abstract and proceeding) (2012).
 
 	* **K. T. Rich**, S. Nye, M. Ericson, R. Hoerr, T. D. Mast. “Visualization of Ultrasound-Enhanced Delivery of Polystyrene Nanoparticles into Ex Vivo Human Skin via the FollicularRoute.” Regional Symposium on Applications of Bio-membranes in Science and Technology,(poster) (2011)
 
