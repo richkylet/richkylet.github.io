@@ -26,8 +26,8 @@ cell: (859) 640-8052
 Education
 ---------
 
-2016 (expected)
-:   **PhD, Biomedical Engineering**; University of Cincinnati (Cincinnati, OH)
+2016 (expected): PhD, Biomedical Engineering
+:   **University of Cincinnati**  Cincinnati, OH
 
     *Thesis title: *
 
@@ -74,22 +74,10 @@ Technical Skills
 distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) analyses of variance and covariance (ANCOVA)
 
 
-[ref]: https://github.com/githubuser/superlongprojectname
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+
     
     
 
