@@ -8,28 +8,27 @@ published: true
 
 Kyle T. Rich
 ============
- Please see my full [CV](/CV)  ([pdf](/images/cv_5.pdf)) and/or
+ Please see my full CV ([pdf](/images/cv_5.pdf)) and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+  
+-------------------     			----------------------------
+231 Albert Sabin Way                mailto:richkylet@gmail.com
+3960 Cardiovascular Center ML 0586  [LinkedIn: Kyle T. Rich](www.linkedin.com/in/kyletrich)
+Cincinnati, OH 45267-0586           (859) 640-8052
+-------------------     			----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016 (expected)
+:   **PhD, Biomedical Engineering**; University of Cincinnati (Cincinnati, OH)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: *
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **BSc, Physics**; Northern Kentucky University (Highland Heights, KY)
 
-    *Minor: Awesomeology*
+    *Minor: Mathematics*
 
 Experience
 ----------
