@@ -51,7 +51,7 @@ distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) a
 
 
 
-Experience
+Research Experience
 ----------
 
 **Graduate Research Assistant: [Biomedical Acoustics Laboratory, University of Cincinnati](http://med.uc.edu/ultrasound)**
