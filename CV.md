@@ -14,6 +14,7 @@ Kyle T. Rich
 ----------------------------     			
 231 Albert Sabin Way                
 3960 Cardiovascular Center ML 0586 
+
 Cincinnati, OH 45267-0586           
 cell: (859) 640-8052
 
