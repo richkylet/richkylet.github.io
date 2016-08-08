@@ -11,7 +11,7 @@ Kyle T. Rich
  Please see my full CV ([pdf](/images/cv_5.pdf)) and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
   
--------------------     			
+----------------------------     			
 231 Albert Sabin Way                
 3960 Cardiovascular Center ML 0586 
 Cincinnati, OH 45267-0586           
@@ -20,7 +20,7 @@ cell: (859) 640-8052
 <richkylet@gmail.com.com>
 [LinkedIn: Kyle T. Rich](www.linkedin.com/in/kyletrich)
 
--------------------     			----------------------------
+----------------------------     			
 
 Education
 ---------
