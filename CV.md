@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Kyle T. Rich
+Curriculum Vitae: Kyle T. Rich
 ============
  Please also see my full CV ([pdf](/images/cv_5.pdf)) and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
