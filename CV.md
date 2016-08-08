@@ -4,7 +4,7 @@ title: CV
 permalink: null
 published: true
 ---
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 Curriculum Vitae: Kyle T. Rich
 ============
