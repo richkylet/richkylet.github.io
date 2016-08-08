@@ -40,11 +40,11 @@ Education
 Technical Skills
 --------------------
 
-Software/Programming
+**Software/Programming** stuff
 
-Technical
+**Technical** other stuff
 
-third
+**third** more stuff
 
 
 
