@@ -17,7 +17,7 @@ published: true
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 
-Contact me: <richkylet@gmail.com.com>
+Contact me: <richkylet@gmail.com>
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
