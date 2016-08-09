@@ -19,6 +19,8 @@ published: true
 
 Contact me: <richkylet@gmail.com.com>
 
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyletrich)
+
 
 Education 
 ---------
