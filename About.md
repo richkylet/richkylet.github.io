@@ -17,6 +17,9 @@ Please see my full [CV](/CV)  ([download pdf](/images/cv_5.pdf)) and
 
 ### Contact me:
 Email: [richkylet@gmail.com](mailto:richkylet@gmail.com)
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyletrich)
+
+
 
 
