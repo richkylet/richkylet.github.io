@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Analysis Tools
 permalink: null
 published: true
