@@ -16,7 +16,7 @@ Scripts are here: [analysis-tools](https://github.com/richkylet/analysis-tools)
 
 ### Basic signal processing
 
-Here, I'm simply demonstrating how to take a time-domain signal, take a 1D FFT with proper normalization. Also shown are examples determining the power desnity spectrum using the method of periodogram and Welch's method. Results are shown for a clean, original sinusoidal signal and one with zero-sum noise added to it. 
+Here, I'm simply demonstrating how to take a time-domain signal, take a 1D FFT with proper normalization. Also shown are examples determining the power desnity spectrum using the method of periodogram and Welch's method. Results are shown for a clean, original sinusoidal signal (blue) and the orginal signal with zero-sum, random noise added to it (red). 
 
 ![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/signalProcessPic.jpeg?raw=true)
 
