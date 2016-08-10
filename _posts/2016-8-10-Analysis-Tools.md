@@ -16,13 +16,14 @@ Scripts are here: [analysis-tools](https://github.com/richkylet/analysis-tools)
 
 ### Basic signal processing
 Here, I'm simply demonstrating how to take a time-domain signal, take a 1D FFT with proper normalization. Also shown are examples determining the power desnity spectrum using the method of periodogram and Welch's method. Results are shown for a clean, original sinusoidal signal and one with zero-sum noise added to it. 
+
 ![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/signalProcessPic.jpeg?raw=true)
 
 
 ### Basic image processing
 Here are a few very basic introductions to filter an image with a spline, convolved, guassian type filters for edge, shift, or blurred filtering effects/processing. 
 
-![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/images/cavitationsound.jpg?raw=true)
+![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/imageProcessPic.jpeg?raw=true)
 
 
 
