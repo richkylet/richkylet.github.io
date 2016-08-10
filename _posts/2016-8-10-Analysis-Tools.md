@@ -23,7 +23,7 @@ Here, I'm simply demonstrating how to take a time-domain signal, take a 1D FFT w
 
 ### Basic image processing
 
-Here are a few very basic introductions to filter an image with a spline, convolved, guassian type filters for edge, shift, or blurred filtering effects/processing. 
+Here are a few very basic introductions to filtering an image with  spline, convolved, guassian type filters for edge, shift, or blurred filtering effects/processing. 
 
 ![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/imageProcessPic.jpeg?raw=true)
 
