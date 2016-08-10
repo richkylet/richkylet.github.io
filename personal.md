@@ -5,4 +5,4 @@ permalink: null
 published: true
 ---
 
-Eventually I'll add some stuff about my personal life here. 
+Eventually I'll add some stuff about my personal life, interests, etc. here. 
