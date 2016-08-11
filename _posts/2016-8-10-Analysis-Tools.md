@@ -16,7 +16,7 @@ Scripts are here: [analysis-tools](https://github.com/richkylet/analysis-tools)
 
 ### Basic signal processing (DFT using FFT in python): `signalProcessingExamples.py`
 
-Here, I'm simply demonstrating how to take a 1D FFT with proper normalization of a time-domain signal. Also shown are examples for calculating the power density spectrum using the method of periodogram and Welch's method. Results are shown for a clean, original sinusoidal signal (blue) and the orginal signal with zero-sum, random noise added to it (red). 
+Here, I'm simply demonstrating how to take a 1D FFT with proper normalization of a time-domain signal. Also shown are examples for calculating the power spectral density (PSD) using the method of periodogram and Welch's method. Results are shown for a clean, original sinusoidal signal (blue) and the orginal signal with zero-sum, random noise added to it (red). 
 
 ![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/signalProcessPic.jpeg?raw=true)
 
