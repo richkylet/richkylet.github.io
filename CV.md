@@ -21,7 +21,7 @@ Contact me:
 
 Email: <richkylet@gmail.com>
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyletrich)
+[LinkedIn](https://www.linkedin.com/in/kyletrich)
 
 
 Education 
