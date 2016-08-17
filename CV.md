@@ -62,13 +62,12 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 * Identified [mechanisms of ultrasound-enhanced skin permeability (sonophoresis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)
 * Developed [standard techniques for quantitative acoustic measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) 
 * Developed [standard guidlines for accurate calibration measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
-* Investigated ultrasound-enhanced transdermal delivery of nanoscaled drugs
-* Developed an _in vitro_ sonophoresis system for autonomous (MATLAB) treatment and data aquisition
-* Conducted spectral analysis of acoustically-measured cavitation bubble  emissions (MATLAB)
-* Conducted data/statistical analyses on measured quantities (MATLAB/R)
-* Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic fields 
-* Developed theory for quantifying cavitation activity from quantitative acoustic measurements
-* Conducted validation simulations (Monte Carlo) and measurements 
+* Developed signal processing algorithms (MATLAB and Python) for spectral analysis of measured acoustic
+emissions from microbubble cavitation
+* Developed system and instrument control algorithms (MATLAB) for autonomous data acquisition
+* Experience conducting data and statistical analyses (MATLAB and R)
+* Experience with numerical, math. and stat. modeling and simulations (MATLAB and Mathematica)
+* Experience presenting data-driven result to technical and non-technical audiences, and publishing results
 
 
 **Underaduate Research Assistant: Solid State Physics Lab, Northern Kentucky University**
