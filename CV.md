@@ -59,14 +59,14 @@ Research Experience
 
 Conducted experiments, numerical simulations, and theoretical analysis to solve biomedical acoustics problems. Included in these investigations was the quantitative detection and analysis of acoustic emissions from cavitating bubbles during sonophoresis. 
 
+* Identified [mechanisms of ultrasound-enhanced skin permeability (sonophoresis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)
+* Developed [standard techniques for quantitative acoustic measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) 
+* Developed [standard guidlines for accurate calibration measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
 * Investigated ultrasound-enhanced transdermal delivery of nanoscaled drugs
 * Developed an _in vitro_ sonophoresis system for autonomous (MATLAB) treatment and data aquisition
 * Conducted spectral analysis of acoustically-measured cavitation bubble  emissions (MATLAB)
 * Conducted data/statistical analyses on measured quantities (MATLAB/R)
-* Identified [mechanisms of ultrasound-enhanced skin permeability (sonophoresis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)
 * Measured,  simulated, and reconstructed transmitted, received, and scattered acoustic fields 
-* Developed [standard techniques for quantitative acoustic measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) 
-* Developed [standard guidlines for accurate calibration measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
 * Developed theory for quantifying cavitation activity from quantitative acoustic measurements
 * Conducted validation simulations (Monte Carlo) and measurements 
 
