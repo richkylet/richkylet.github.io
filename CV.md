@@ -13,7 +13,7 @@ published: true
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="kyletrich"><a class="LI-simple-link" href='https://www.linkedin.com/in/kyletrich?trk=profile-badge'>Kyle T. Rich</a></div>
 
 
- Please also see my full CV ([pdf](/images/cv_5.pdf)) and/or
+ Please also see my full CV ([pdf](/images/KyleTRich_CV.pdf)) and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 Contact me: 
