@@ -9,6 +9,31 @@ published: true
 
 
 ### Bubbles and therapeutic ultrasound ###
+Commonly recognized as a diagnostic imaging modality, ultrasound is also used for therapeutic applications to treat ailments including [cancer](http://med.uc.edu/ultrasound/research#topic5), [stroke](http://med.uc.edu/ultrasound/research#topic1), Parkinson’s disease, as well as for various [directed drug delivery](http://med.uc.edu/ultrasound/research#topic2) applications.  
+For the majority of these therapeutic applications, the primary mechanisms providing the desired therapeutic bioffect is a phenomena referred to as acoustic cavitation. 
+Acoustic cavitation is the nucleation and subsequent pulsation and/or collapse of micron-sized, gas-filled bubbles within the tissue or vasculature that are physically driven by the applied oscillating sound field (ultrasound). 
+
+
+Although potentially providing a desired bioeffect, acoustic cavitation is also capable of generating adverse bioeffects such as lung or blood vessel hemorrhage, and destruction of non-targeted tissue. 
+Hence, it is important to characterize when, where, and how much bubble activity is occurring during therapy. 
+Characterization of acoustic energy delivered to tissue  during therapeutic ultrasound treatments was the main theme of the investigations I led throughout my PhD. 
+
+
+## Sonophoresis: ultrasound-enhanced transdermal drug delivery ##
+
+A treatment termed sonophoresis is one of many ultrasound-enhanced, cavitation-based thereapies used to enhance drug delivery across the skin for systemic absorption. 
+Cavitation bubbles during sonophoresis may interact with and permeabilize the skin in various ways. 
+
+Generally, cavitation comes in two flavors: stable and inertial. Stable cavitation is the repetitive pulsation of a bubble, while inertial describes the rapid expansion and violent collapse (due to being overcome by inertia) of a bubble. These two different kinds of behavior are associated with different mechanisms by which the bubbles interact with tissue. For example, during sonophoresis, stable cavitation may lead to fluid flows around the bubble wall that induce a shear force, pulling the skin apart. Inertial cavitation may generate micron-scaled jets of fluid that impact the skin, making pores. 
+These examples are depicted below:
+
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/images/skin_cavitation.jpg?raw=true)
+
+The specific types and locations of cavitation were investigated and identified, and the results published in the [Journal of Controlled Release](http://www.sciencedirect.com/science/article/pii/S0168365914005896)
+
+
+
+
 Bubbles may interact with tissue during therapeutic ultrasound and enhance the therapeutic effect. The excitation of bubbles by exposure to ultrasound is called acoustic cavitation: the nucleation and subsequent pulsation and/or collapse of a gas-filled bubble that is physically driven by the applied oscillating sound field. A variety of ultrasound-enhanced drug delivery applications are currently being researched including [stroke treatment](http://med.uc.edu/ultrasound/research#topic1) and [transdermal drug delivery](http://www.sciencedirect.com/science/article/pii/S0168365914005896), for example. 
 
 Below is an example depicting the potential interaction of cavitation bubbles with skin during sonophoresis, a treatment that employs ultrasound to increase the permeability of skin for enhanced drug delivery:
