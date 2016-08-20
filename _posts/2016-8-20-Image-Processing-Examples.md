@@ -1,5 +1,5 @@
 layout: single
-title: PSD Estimation
+title: Image Processing Examples
 permalink: null
 published: true
 ---
