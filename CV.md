@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: CV
+title: CV & resume
 permalink: null
 published: true
 ---
 
 
-## Curriculum Vitae:##
+## Curriculum Vitae & resume:##
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
