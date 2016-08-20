@@ -12,7 +12,7 @@ I’m currently wrapping up my PhD in Biomedical Engineering at the University o
 Please view my [professional experiences](/CV) and [research](/research), as well as some more [personal information](/personal) to get to know me better below. 
 
 ### Professional:
-Please see my full [CV](/CV)  ([download pdf](/images/cv_5.pdf)) and 
+Please see my full [CV](/CV)  ([download pdf](/docs/KyleTRich_CV.pdf)) and 
 [list of peer-reviewed publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 ### Contact me:
