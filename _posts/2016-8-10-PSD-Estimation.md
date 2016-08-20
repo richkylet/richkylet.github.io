@@ -23,19 +23,11 @@ If we first consider some time-domain signal (subplot titled 'Time-domain signal
 
 Now, potentially we want to calculate the PSD of the signal to estimate the power per frequncy bin. 
 The `scipy` package offers various methods for calculating the PSD. 
-The periodogram method is a basic method (shown in subplot titled 'Method of periodograms')
+The periodogram method is a basic method (shown in subplot titled 'Method of periodograms').
 Welch's method improves upon the periodogram method by reducing noise in 
 exchange for reducing the frequency resolution (shown in subplot titled 'Welchs method').
 
 
-
-
-
-### Basic image processing (image filtering for various effects): `imageProcessingExamples.py`
-
-Here are a few basic examples of image processing with  spline, convolved, and guassian type filters for edge, shift, and blurred effects/processing. 
-
-![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/imageProcessPic.jpeg?raw=true)
 
 
 
