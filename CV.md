@@ -13,12 +13,11 @@ published: true
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="kyletrich"><a class="LI-simple-link" href='https://www.linkedin.com/in/kyletrich?trk=profile-badge'>Kyle T. Rich</a></div>
 
 
- Please also see my full CV ([pdf](/doc/KyleTRich_CV.pdf)), 1-page resume ([pdf](/doc/KTRich_resume2016.pdf)), and/or
+ Please also see my full CV ([pdf](/docs/KyleTRich_CV.pdf)), 1-page resume ([pdf](/docs/KTRich_resume2016.pdf)), and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
 Contact me: 
 ---------
-
 Email: <richkylet@gmail.com>
 
 [LinkedIn](https://www.linkedin.com/in/kyletrich)
