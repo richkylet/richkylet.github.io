@@ -8,7 +8,7 @@ published: true
 ## Signal Processing example scripts: PSD estimation
 
 
-**Basic descritpion:** simple script for calculating the power spectral density (PSD) of a signal (see: [`PSDestimation.py`](https://github.com/richkylet/analysis-tools/blob/gh-pages/PSDestimation.py)). 
+**Basic descritpion:** simple script for calculating the power spectral density (PSD) of a signal (see: [`PSDestimation.py`](https://github.com/richkylet/analysis-tools/blob/gh-pages/PSDestimation.py)). This is part of a [collection of basic scripts](https://github.com/richkylet/analysis-tools) used for analysis during my PhD. 
 
 Information: The power Spectral Density (PSD) of a time-domain signal represents the signal power in the frequency domain.  
 That is, the PSD shows which frequency content within a signal are strong relative to other frequency content. 
