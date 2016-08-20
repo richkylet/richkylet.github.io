@@ -1,3 +1,4 @@
+---
 layout: single
 title: Image Processing Examples
 permalink: null
