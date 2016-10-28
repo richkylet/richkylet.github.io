@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Image Processing Examples
+title: Basic Image Processing Examples in  Python
 permalink: null
 published: true
 ---
