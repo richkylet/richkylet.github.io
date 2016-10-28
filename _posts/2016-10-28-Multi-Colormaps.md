@@ -19,4 +19,4 @@ This isn't always a straightforward problem to solve, so I've generated a simple
 This example is easy to follow: two axes are defined and plotted, the axes linked, colormaps assigned, and second (or third and fourth and...) axes turned off:
 
 
-![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/twoColormaps.pdf?raw=true)
+![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/twoColormaps.jpg?raw=true)
