@@ -20,3 +20,16 @@ This example is easy to follow: two axes are defined and plotted, the axes linke
 
 
 ![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/twoColormaps.jpg?raw=true)
+
+
+Here is an applied example: we have some region of interest within the field of an ultrasound transducer. The configuration is shown in (a), a cylinderical tube with an unfocused and focused transducer each aligned orthogonally with it. 
+The ultrasound field within the cylindrical tube for the (b) focused and (c) unfocused transducers are highlighted in a 'hot' colormap with the background field mapped in grayscale. 
+
+![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/twoColormaps.jpg?raw=true)
+
+Ultrasound fields in these figures were simulated using an exact series expansion method in MATLAB following [1].
+
+
+
+
+[1] Mast, T. D. and Yu, F. (2005). Simplified expansions for radiation from a baffled circular piston. J. Acoust. Soc. Am., 118(6):3457–3464.
