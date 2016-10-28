@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Plotting overlapping colormaps
+title: Plotting overlapping colormaps in MATLAB
 permalink: null
 published: true
 ---
