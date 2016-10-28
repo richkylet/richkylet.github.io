@@ -1,6 +1,6 @@
 ---
 layout: single
-title: PSD Estimation
+title: PSD Estimation in Python
 permalink: null
 published: true
 ---
