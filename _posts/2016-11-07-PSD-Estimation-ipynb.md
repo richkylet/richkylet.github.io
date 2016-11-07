@@ -59,7 +59,7 @@ amp = 10;  # amplitude of primary component
 Fs = 10*f0 # sampling frequency 
 t = np.arange(0,float(10*f0/2),float(1/Fs))# time vector
 
-# non noisey sigal y 
+# original signal y 
 y = amp*np.sin(2 * np.pi * f0 * t)         # primary component
 y = amp/2*np.sin(2 * np.pi * f0/2 * t) + y # spectral component 1
 y = amp/3*np.sin(2 * np.pi * f0*2 * t) + y # spectral component 2
@@ -84,7 +84,7 @@ plt.show()
 
 
 
-![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png)
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png?raw=true)
 https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png
 
 ### FFT of signal: 
