@@ -81,7 +81,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+richkylet.github.io/_posts/figures/output_18_0.png
 
 
 ### FFT of signal: 
