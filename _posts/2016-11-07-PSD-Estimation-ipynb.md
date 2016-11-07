@@ -13,7 +13,7 @@ That is, the PSD shows which frequency content within a signal are strong relati
 
 Here is a basic script for calculating the FTT and PSD of a time-domain signal. 
 
-# Required packages (scipy, numpy, and matplotlib):
+### Required packages (scipy, numpy, and matplotlib):
 
 
 The scipy package offers various methods for calculating the PSD in addition to the straight forward FFT offered in numpy. The periodogram method is a basic method (shown in subplot titled ‘Method of periodograms’). Welch’s method improves upon the periodogram method by reducing noise in exchange for reducing the frequency resolution (shown in subplot titled ‘Welchs method’).
@@ -39,7 +39,7 @@ def nextpow2(x):
     return (x-1).bit_length()
 ```
 
-# Time-Domain Signal $y(t)$
+### Time-Domain Signal $y(t)$
 
 Lets define a time-domain signal, with $y_{noise}(t)$ and without $y(t)$ zero-sum noise, that we will later be processing. 
 
@@ -84,7 +84,7 @@ plt.show()
 ![png](output_9_0.png)
 
 
-# FFT of signal: 
+### FFT of signal: 
 
 First, we can take the FFT of the signal. For this example, the the FFT of the noisey signal is zero-padded to the next power of 2 of the length of the original signal. 
 
@@ -124,7 +124,7 @@ plt.show()
 ![png](output_12_0.png)
 
 
-# Method of periodograms
+### Method of periodograms
 
 
 ```python
@@ -151,7 +151,7 @@ plt.show()
 ![png](output_14_0.png)
 
 
-# Welchs method
+### Welchs method
 
 
 ```python
@@ -178,7 +178,7 @@ plt.show()
 ![png](output_16_0.png)
 
 
-# Comparison of methods:
+### Comparison of methods:
 
 
 ```python
