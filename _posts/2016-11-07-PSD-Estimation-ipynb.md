@@ -80,7 +80,6 @@ plt.grid()
 plt.show()
 ```
 
-https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_9_0.png
 
 
 
