@@ -31,6 +31,7 @@ import math
 First, lets define a function nextpow2 that for a given number x will find its next power of 2. This will be used for zero-padding FFTs later. 
 
 
+
 ```python
 def nextpow2(x):
     ''' 
