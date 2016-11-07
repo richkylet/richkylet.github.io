@@ -80,8 +80,7 @@ plt.grid()
 plt.show()
 ```
 
-
-richkylet.github.io/_posts/figures/output_18_0.png
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png?raw=true)
 
 
 ### FFT of signal: 
