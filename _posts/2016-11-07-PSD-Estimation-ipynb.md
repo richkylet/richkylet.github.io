@@ -84,8 +84,7 @@ plt.show()
 
 
 
-![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png?raw=true)
-https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_9_0.png?raw=true)
 
 ### FFT of signal: 
 
@@ -124,7 +123,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_12_0.png?raw=true)
 
 
 ### Method of periodograms
@@ -151,7 +150,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_14_0.png?raw=true)
 
 
 ### Welchs method
@@ -178,7 +177,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_16_0.png?raw=true)
 
 
 ### Comparison of methods:
@@ -228,7 +227,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/_posts/figures/output_18_0.png?raw=true)
 
 
 
