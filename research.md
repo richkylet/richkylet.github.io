@@ -17,7 +17,7 @@ This interaction may lead to a variety of bioeffects, which are typically avoide
 Hence, fundamental to ultrasound exposure safety is proper monitoring and measuring techniques of cavitation to asses treatment progress and provide  dosimetry  metrics for avoiding potentially harmful exposures both for treatment and for diagnostic purposes.
 However, there are currently no standard measurement or analysis techniques for this sort of assessment or monitoring. 
 
-##### The majority of my PhD work has been centered around developing a greater understanding of bubble physics, their interactions with tissue for enhanced drug delivery applications, and developing methods to monitor their presence, intensity, and acoustic energy dose delivered to tissue. #####
+#### The majority of my PhD work has been centered around developing a greater understanding of bubble physics, their interactions with tissue for enhanced drug delivery applications, and developing methods to monitor their presence, intensity, and acoustic energy dose delivered to tissue. ####
 
 
 
