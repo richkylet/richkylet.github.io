@@ -5,7 +5,7 @@ permalink: null
 published: true
 ---
 ### Peer-reviewed publications ###
-[View my manuscripts](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ) published on the following research summarized below. 
+[View my manuscripts](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ) published on the research summarized below. 
 
 
 ### Bubbles and therapeutic ultrasound ###
@@ -17,14 +17,18 @@ This interaction may lead to a variety of bioeffects, which are typically avoide
 Hence, fundamental to ultrasound exposure safety is proper monitoring and measuring techniques of cavitation to asses treatment progress and provide  dosimetry  metrics for avoiding potentially harmful exposures both for treatment and for diagnostic purposes.
 However, there are currently no standard measurement or analysis techniques for this sort of assessment or monitoring. 
 
+##### The majority of my PhD work has been centered around developing a greater understanding of bubble physics, their interactions with tissue for enhanced drug delivery applications, and developing methods to monitor their presence, intensity, and acoustic energy dose delivered to tissue. #####
+
 
 
 ## Sonophoresis: ultrasound-enhanced transdermal drug delivery ##
 
-A treatment termed sonophoresis is one of many ultrasound-enhanced, cavitation-based thereapies used to enhance drug delivery across the skin for systemic absorption. 
-Cavitation bubbles during sonophoresis may interact with and permeabilize the skin in various ways. 
+ Transdermal drug delivery generally refers to the topical application of drugs with the goal of absorption into the deeper skin layers for local and regional delivery or for systemic absorption. 
+ The transdermal path as an alternative drug delivery route is significant as it alleviates pre-systemic absorption and metabolism of drugs by the GI tract and stomach, the skin is easily accessible, and offers the potential for sustained and controlled delivery of drugs. 
+ However, the skin itself acts as a resistor to drug penetration, only letting a select few types and sizes of drugs across the skin (e.g., nicotine and estradiol). One method to increasing skin permeability to drugs is the use of ultrasound, a treatment referred to as sonophoresis. 
+ For sonophoresis, increased skin permeability is believed to be initiated by the interaction of cavitation with the skin surface. 
 
-Generally, cavitation comes in two flavors: stable and inertial. Stable cavitation is the repetitive pulsation of a bubble, while inertial describes the rapid expansion and violent collapse (due to being overcome by inertia) of a bubble. These two different kinds of behavior are associated with different mechanisms by which the bubbles interact with tissue. For example, during sonophoresis, stable cavitation may lead to fluid flows around the bubble wall that induce a shear force, pulling the skin apart. Inertial cavitation may generate micron-scaled jets of fluid that impact the skin, making pores. 
+Generally, cavitation comes in two types, defined by their dynamic response to ultrasound: stable and inertial. Stable cavitation is the repetitive pulsation of a bubble, while inertial describes the rapid expansion and violent collapse (due to being overcome by inertia) of a bubble. These two different kinds of behavior are associated with different mechanisms by which the bubbles interact with tissue. For example, during sonophoresis, stable cavitation may lead to fluid flows around the bubble wall that induce a shear force, pulling the skin apart. Inertial cavitation may generate micron-scaled jets of fluid that impact the skin, making pores. 
 These examples are depicted below:
 
 ![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/images/skin_cavitation.jpg?raw=true)
