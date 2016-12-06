@@ -11,12 +11,12 @@ published: true
 ### Bubbles and therapeutic ultrasound ###
 Commonly recognized as a diagnostic imaging modality, ultrasound is also used for therapeutic applications to treat ailments including [cancer](http://med.uc.edu/ultrasound/research#topic5), [stroke](http://med.uc.edu/ultrasound/research#topic1), Parkinson’s disease, as well as for various [directed drug delivery](http://med.uc.edu/ultrasound/research#topic2) applications.  
 For the majority of these therapeutic applications, the primary mechanisms providing the desired therapeutic bioffect is a phenomena referred to as acoustic cavitation. 
-Acoustic cavitation is the nucleation and subsequent pulsation and/or collapse of micron-sized, gas-filled bubbles within the tissue or vasculature that are physically driven by the applied oscillating sound field (ultrasound). 
 
+Acoustic cavitation is the nucleation and subsequent pulsation and/or collapse of micron-sized, gas-filled bubbles that are physically driven by the applied oscillating sound field (ultrasound). Cavitation activity can occur within and interact with tissue, vasculature, or fluids (e.g. blood) during ultrasound exposure. 
+This interaction may lead to a variety of bioeffects, which are typically avoided for diagnostic applications but may be exploited to permeabilize biological barriers such as skin, the blood-brain barrier, or vasculature to increase localized and targeted drug delivery. 
+Hence, fundamental to ultrasound exposure safety is proper monitoring and measuring techniques of cavitation to asses treatment progress and provide  dosimetry  metrics for avoiding potentially harmful exposures both for treatment and for diagnostic purposes.
+However, there are currently no standard measurement or analysis techniques for this sort of assessment or monitoring. 
 
-Although potentially providing a desired bioeffect, acoustic cavitation is also capable of generating adverse bioeffects such as lung or blood vessel hemorrhage, and destruction of non-targeted tissue. 
-Hence, it is important to characterize when, where, and how much bubble activity is occurring during therapy. 
-Characterization of acoustic energy delivered to tissue  during therapeutic ultrasound treatments was the main theme of the investigations I led throughout my PhD. 
 
 
 ## Sonophoresis: ultrasound-enhanced transdermal drug delivery ##
