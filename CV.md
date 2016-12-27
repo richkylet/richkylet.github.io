@@ -6,12 +6,12 @@ published: true
 ---
 
 
-## Curriculum Vitae & resume:##
+# Curriculum Vitae & resume:#
 
 
 
 
-##Contact me or view my information:
+##Contact me or view my information:##
 ---------
 Email me: <richkylet@gmail.com>
 
