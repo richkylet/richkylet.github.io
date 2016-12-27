@@ -8,9 +8,7 @@ published: true
 
 ## Curriculum Vitae & resume:##
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="kyletrich"><a class="LI-simple-link" href='https://www.linkedin.com/in/kyletrich?trk=profile-badge'>Kyle T. Rich</a></div>
 
 
  Please also see my full CV ([pdf](/docs/KyleTRich_CV.pdf)), 1-page resume ([pdf](/docs/KTRich_resume2016.pdf)), and/or
