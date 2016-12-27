@@ -69,10 +69,10 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 
 **Underaduate Research Assistant: Solid State Physics Lab, Northern Kentucky University**
 
-Investigated the crystalline structure and electrical properties of bulk-produced CoFe(x)O(y) (cobalt ferrite) composites for potential pressure sensors applications
+* Conducted research investigating bulk-produced CoFe(x)O(y) (cobalt ferrite) composites for potential pressure sensors applications. 
+* Developed and manufactured composites, performed characterization analysis using WAXS and impedance spectroscopy, and data analysis with Mathematica. 
  
  
-
 
 Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ))
 ----------------------------------------
