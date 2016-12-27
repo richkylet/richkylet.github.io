@@ -14,9 +14,9 @@ published: true
  Please also see my full CV ([pdf](/docs/KyleTRich_CV.pdf)), 1-page resume ([pdf](/docs/KTRich_resume2016.pdf)), and/or
   [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
 
-Contact me: 
+
 ---------
-Email: <richkylet@gmail.com>
+[Email me]<richkylet@gmail.com>
 
 [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
