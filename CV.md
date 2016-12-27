@@ -11,15 +11,17 @@ published: true
 
 
 
- Please also see my full CV ([pdf](/docs/KyleTRich_CV.pdf)), 1-page resume ([pdf](/docs/KTRich_resume2016.pdf)), and/or
-  [list of publications](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ).
-
-
+##Contact me or view my information:
 ---------
-[Email me:](<richkylet@gmail.com>)
+Email me: <richkylet@gmail.com>
 
-[LinkedIn](https://www.linkedin.com/in/kyletrich)
+View LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
+View my publications:  [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ)
+
+Download Curriculum Vitae: [pdf](/docs/KyleTRich_CV.pdf)
+
+Download 1-pg resume: [pdf](/docs/KTRich_resume2016.pdf)
 
 Education 
 ---------
