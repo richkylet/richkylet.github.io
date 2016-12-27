@@ -11,7 +11,7 @@ published: true
 
 
 
-##Contact me or view my information:##
+Contact me or view my information:
 ---------
 Email me: <richkylet@gmail.com>
 
@@ -23,6 +23,7 @@ Download Curriculum Vitae: [pdf](/docs/KyleTRich_CV.pdf)
 
 Download 1-pg resume: [pdf](/docs/KTRich_resume2016.pdf)
 
+---------
 Education 
 ---------
 
