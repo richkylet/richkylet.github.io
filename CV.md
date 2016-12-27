@@ -29,7 +29,7 @@ Education
 2016 (expected): PhD, Biomedical Engineering
 :   **University of Cincinnati**  Cincinnati, OH
 
-    *Thesis title: Characterization of cavitation effects in therapeutic ultrasound: sonophoresis experiments and quantitative emission measurements*
+    *Dissertation title: Characterization of cavitation effects in therapeutic ultrasound: sonophoresis experiments and quantitative emission measurements*
 
 2008: BS, Physics
 :   **Northern Kentucky University**  Highland Heights, KY
@@ -40,14 +40,13 @@ Education
 Technical Skills
 --------------------
 
-**Software/Programming:** MATLAB, LaTeX, Mathematica, Unix/Linux environment, R\*, SAS\*, Python (SciPy, Matplotlib, NumPy, Pandas)\* (\* basic knowledge)
+**Software/Programming:** MATLAB, Python (SciPy, Matplotlib, NumPy, Pandas\*), LaTeX, Mathematica, R (ggplot2 \*), Unix/Linux environment
+(\* basic knowledge)
 
 **Technical:** Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
 
 **Statistical:** Experience with: regression, uncertainty propagation, correlation,
 distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) analyses of variance and covariance (ANCOVA)
-
-
 
 
 
@@ -61,8 +60,7 @@ Conducted experiments, numerical simulations, and theoretical analysis to solve 
 * Identified [mechanisms of ultrasound-enhanced skin permeability (sonophoresis)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)
 * Developed [standard techniques for quantitative acoustic measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) 
 * Developed [standard guidlines for accurate calibration measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC)
-* Developed signal processing algorithms (MATLAB and Python) for spectral analysis of measured acoustic
-emissions from microbubble cavitation
+* Developed signal processing algorithms (MATLAB and Python) for spectral analysis of measured acoustic emissions from microbubble cavitation
 * Developed system and instrument control algorithms (MATLAB) for autonomous data acquisition
 * Experience conducting data and statistical analyses (MATLAB and R)
 * Experience with numerical, math. and stat. modeling and simulations (MATLAB and Mathematica)
@@ -80,17 +78,13 @@ Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=e
 ----------------------------------------
 
 **Peer-reviewed:**
-
-* **K. T. Rich**, C. L. Hoerig, M. B. Rao, and T. D. Mast, ["Relations between acoustic cavitation and skin resistance during intermediate- and high-frequency sonophoresis,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC)  _J. Control. Release_, vol. 194, pp. 266--277, 2014.
+* K. J. Haworth, K. B. Bader, **K. T. Rich**, C. K. Holland, T. D. Mast, [“Quantitative Frequency-Domain Passive Cavitation Imaging,”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:UeHWp8X0CEIC) _IEEE Trans. Ultrason., Ferroelect., Freq. Control._, (published online 10/2016)
 
 * **K. T. Rich** and T. D. Mast, ["Accuracy of a bistatic scattering substitution technique for calibration of focused receivers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) _J. Acoust. Soc. Am._, vol. 138, no. 5, pp. EL469--EL473, 2015.
 
 * **K. T. Rich** and T. D. Mast, ["Methods to calibrate the absolute receive sensitivity of single-element, focused transducers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:2osOgNQ5qMEC) _J. Acoust. Soc. Am._, vol. 138, no. 3, pp. EL193--EL198, 2015.
 
-
-**Under Review**
-
-* K. J. Haworth, K. B. Bader, **K. T. Rich**, C. K. Holland, T. D. Mast, “Frequency-domain passive imaging of ultrasonics emissions,” IEEE Trans. Ultrason., Ferroelect., Freq. Control. (submitted 3/2016)
+* **K. T. Rich**, C. L. Hoerig, M. B. Rao, and T. D. Mast, ["Relations between acoustic cavitation and skin resistance during intermediate- and high-frequency sonophoresis,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u-x6o8ySG0sC) _J. Control. Release_, vol. 194, pp. 266--277, 2014.
 
 **Conference abstracts, proceedings, and presentations**
 	
