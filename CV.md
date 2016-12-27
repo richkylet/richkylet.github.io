@@ -16,7 +16,7 @@ published: true
 
 
 ---------
-[Email me]<richkylet@gmail.com>
+[Email me:](<richkylet@gmail.com>)
 
 [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
