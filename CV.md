@@ -22,7 +22,7 @@ Download Curriculum Vitae: [pdf](/docs/KyleTRich_CV.pdf)
 
 Download 1-pg resume: [pdf](/docs/KTRich_resume2016.pdf)
 
----------
+
 Education 
 ---------
 
