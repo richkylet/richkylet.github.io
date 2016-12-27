@@ -10,8 +10,7 @@ published: true
 
 
 
-
-Contact me or view my information:
+Contact me or view my professional information:
 ---------
 Email me: <richkylet@gmail.com>
 
