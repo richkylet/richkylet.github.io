@@ -29,7 +29,7 @@ Education
 2016 (expected): PhD, Biomedical Engineering
 :   **University of Cincinnati**  Cincinnati, OH
 
-    *Thesis title: *
+    *Thesis title: Characterization of cavitation effects in therapeutic ultrasound: sonophoresis experiments and quantitative emission measurements*
 
 2008: BS, Physics
 :   **Northern Kentucky University**  Highland Heights, KY
