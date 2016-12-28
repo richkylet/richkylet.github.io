@@ -18,9 +18,9 @@ View LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
 View my publications:  [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ)
 
-Download Curriculum Vitae: [pdf](/docs/KyleTRich_CV.pdf)
+Download Curriculum Vitae: [CV pdf](/docs/KyleTRich_CV.pdf)
 
-Download 1-pg resume: [pdf](/docs/KTRich_resume2016.pdf)
+Download 1-pg resume: [Resume pdf](/docs/KTRich_resume2016.pdf)
 
 
 Education 
@@ -45,8 +45,8 @@ Technical Skills
 
 **Technical:** Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
 
-**Statistical:** Experience with: regression, uncertainty propagation, correlation,
-distribution (KS test), parametric (Kruskal-Wallis) and non-parametric (ANOVA) analyses of variance and covariance (ANCOVA)
+**Statistical:** Regression, uncertainty propagation, correlation, and
+distribution testing, parametric and non-parametric analyses of variance and covariance, and binary classifier system (ROC analysis)
 
 
 
