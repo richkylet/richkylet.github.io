@@ -9,5 +9,7 @@ published: true
 
 
 ---------
-[Basic signal processing](https://github.com/richkylet/iPython-signal-processing)
+[Basic signal processing](https://github.com/richkylet/iPython-signal-processing): 
+
+[LaTeX templates](https://github.com/richkylet/LaTeX):
 
