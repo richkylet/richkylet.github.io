@@ -5,9 +5,8 @@ permalink: null
 published: true
 ---
 
-#Github repositories#
+Github repositories:
 ---------
-
 
 Each repositories contains an assortment of scripts and documents I have used during my PhD work. The contents of each repository will be continuously updated as I generalize the various tools for broader applicability. 
 ---------
