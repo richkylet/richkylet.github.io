@@ -4,8 +4,11 @@ main:
     url: https://richkylet.github.io/About
 
   - title: "CV"
-    url: https://richkylet.github.io/CV
-
+    url: https://richkylet.github.io/Resume and CV
+    
+  - title: "Github"
+    url: https://richkylet.github.io/Github
+    
   - title: "Research"
     url: https://richkylet.github.io/research
   
