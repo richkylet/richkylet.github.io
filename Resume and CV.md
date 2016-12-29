@@ -76,6 +76,8 @@ Publications ([Google Scholar Profile](https://scholar.google.com/citations?hl=e
 ----------------------------------------
 
 **Peer-reviewed:**
+
+
 * K. J. Haworth, K. B. Bader, **K. T. Rich**, C. K. Holland, T. D. Mast, [“Quantitative Frequency-Domain Passive Cavitation Imaging,”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:UeHWp8X0CEIC) _IEEE Trans. Ultrason., Ferroelect., Freq. Control._, (published online 10/2016)
 
 * **K. T. Rich** and T. D. Mast, ["Accuracy of a bistatic scattering substitution technique for calibration of focused receivers,"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yQ-Tm_oAAAAJ&citation_for_view=yQ-Tm_oAAAAJ:u5HHmVD_uO8C) _J. Acoust. Soc. Am._, vol. 138, no. 5, pp. EL469--EL473, 2015.
