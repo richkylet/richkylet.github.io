@@ -6,7 +6,7 @@ published: true
 ---
 
 
-# Curriculum Vitae & resume:#
+# Resume:#
 
 
 
@@ -18,9 +18,7 @@ View LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
 View my publications:  [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ)
 
-Download Curriculum Vitae: [CV pdf](/docs/KyleTRich_CV.pdf)
-
-Download 1-pg resume: [Resume pdf](/docs/KTRich_resume2016.pdf)
+Download resume: [Resume pdf](/docs/KTRich_resume2016.pdf)
 
 
 Education 
@@ -40,13 +38,12 @@ Education
 Technical Skills
 --------------------
 
-**Software/Programming:** MATLAB, Python (SciPy, Matplotlib, NumPy, Pandas\*), LaTeX, Mathematica, R (ggplot2 \*), Unix/Linux environment
+**Software/Programming:** MATLAB, Python (SciPy, Matplotlib, NumPy, Pandas\*, scikit-learn\*), LaTeX, Mathematica, R (ggplot2 \*), Git, Unix/Linux environment
 (\* basic knowledge)
 
-**Technical:** Acoustic simulation and characterization, numerical simulations, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
+**Technical:** Acoustic simulation and characterization, numerical and computational modeling, Monte Carlo methods, instrument control, signal analysis, data processing and visulization
 
-**Statistical:** Regression, uncertainty propagation, correlation, and
-distribution testing, parametric and non-parametric analyses of variance and covariance, and binary classifier system (ROC analysis)
+**Statistical:** Regression, uncertainty propagation, correlation, distribution testing, parametric and non-parametric analyses of variance and covariance, and binary classifier system (ROC analysis)
 
 
 
