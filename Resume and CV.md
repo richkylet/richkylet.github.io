@@ -14,11 +14,11 @@ Contact me or view my professional information:
 ---------
 Email me: <richkylet@gmail.com>
 
-View LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/kyletrich)
+LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/kyletrich)
 
-View my publications:  [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ)
+Publication listing:  [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yQ-Tm_oAAAAJ)
 
-Download resume: [Resume pdf](/docs/KTRich_resume2016.pdf)
+Resume: [download pdf](/docs/KTRich_resume2016.pdf)
 
 
 Education 
