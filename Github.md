@@ -16,3 +16,5 @@ Each repositories contains an assortment of scripts and documents I have used du
 * [LaTeX templates](https://github.com/richkylet/LaTeX): Various templates used for documents generated in LaTeX. 
 
 * [Analysis tools](https://github.com/richkylet/analysis-tools): An assortment of tools and scripts used during my PhD work (MATLAB, Python, and R) as well as some scripts written for fun.
+
+* [Kaggle challenges](https://github.com/richkylet/kaggleChallenges): An assortment of personal projects and Kaggle challenges. Many analyses here are only at beginning stages. 
