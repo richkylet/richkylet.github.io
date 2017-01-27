@@ -12,7 +12,8 @@ Description: The power Spectral Density (PSD) of a time-domain signal represents
 That is, the PSD shows which frequency content within a signal are strong relative to other frequency content. Generally, the PSD is computed using the Fast Fourier Transform (FFT), an efficeint algorithm for comuputing the Discrete Fourier transform (DFT) of a sequence or signal.
 
 Here is a basic script for calculating the FTT and PSD of a time-domain signal. The iPython notebook can be found 
-[here](https://github.com/richkylet/iPython-signal-processing/blob/master/PSD_estimation.ipynb).
+[here](https://github.com/richkylet/signal-processing-iPython), within a small collection of introductory signal processing scripts in ipython NBs.
+
 
 ### Required packages (scipy, numpy, and matplotlib):
 
