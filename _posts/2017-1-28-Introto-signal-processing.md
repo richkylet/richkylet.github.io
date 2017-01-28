@@ -10,7 +10,7 @@ published: true
 ### Introduction to basic signal processing in python 
 
 
-**Basic descritpion:** Collection of basic examples of introductory signal processing in Python ([repository here](https://github.com/richkylet/signal-processing-iPython)). 
+**Basic description:** Collection of basic examples of introductory signal processing in Python ([repository here](https://github.com/richkylet/signal-processing-iPython)). 
 This is a growing collection of minimal working examples displaying how to employ signal processing techniques using Python. 
 Included is the employment of useful packages (numpy, etc) and functions (fft, etc) that may be useful either to those that are new to Python or to signal processing. 
 
