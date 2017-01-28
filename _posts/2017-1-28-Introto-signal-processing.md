@@ -25,7 +25,6 @@ Descriptions, basic explanation, and visualizations are given for
 
 
 ![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/images/time.png?raw=true)
-
 ![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/PSD.png?raw=true)
 
 
