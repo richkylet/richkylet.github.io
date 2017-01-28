@@ -16,5 +16,7 @@ Included is the employment of useful packages (numpy, etc) and functions (fft, e
 
 
 
-![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/twoColormaps.jpg?raw=true)
+![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/time.png?raw=true)
+![]({{site.baseurl}}https://github.com/richkylet/analysis-tools/blob/gh-pages/images/PSD.png?raw=true)
+
 
