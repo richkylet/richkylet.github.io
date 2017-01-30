@@ -14,4 +14,5 @@ It should also be noted how quickly Tableau can be adapted to create really nice
 
 See the dashboard [here](https://public.tableau.com/views/sf_crime/Dashboard1?:embed=y&:display_count=yes). 
 The first order of business was to organize the data in order to display a map of crimes. 
-Second, in addition to geospatial data, this data set also includes time series data so I began plotting crimes as function of time. 
+Second, in addition to geospatial data, this data set also includes time series data so I began plotting crimes as function of time.
+
