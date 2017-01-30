@@ -25,6 +25,6 @@ Second, in addition to geospatial data, this data set also includes time series 
 
 
 #### Acknowledgements
-Kaggle is hosting this competition for the machine learning community to use for fun and practice. This dataset is brought to you by [SF OpenData](https://data.sfgov.org/), the central clearinghouse for data published by the City and County of San Francisco.
+##### Kaggle is hosting this competition for the machine learning community to use for fun and practice. This dataset is brought to you by [SF OpenData](https://data.sfgov.org/), the central clearinghouse for data published by the City and County of San Francisco.
 
 
