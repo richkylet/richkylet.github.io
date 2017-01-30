@@ -4,7 +4,11 @@ title: Testing out tableau
 permalink: null
 published: true
 ---
+
+### My introduction to Tableau
+
 ![]({{site.baseurl}}https://github.com/richkylet/richkylet.github.io/blob/master/images/sf.png?raw=true)
+
 
 This is my first interaction creating a dashboard and visualizations using Tableau. 
 As an example data set, I am starting off with San Francisco crime data that was hosted for a Kaggle competition ([kaggle.com](https://www.kaggle.com/c/sf-crime)). 
