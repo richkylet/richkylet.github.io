@@ -17,9 +17,10 @@ It should also be noted how quickly Tableau can be adapted to create really nice
 Really, I can not stress how quickly this tool can be adapted and employed to visualize your data in a very clean, organized dashboard. 
 
 
-See the dashboard [here](https://public.tableau.com/views/sf_crime/Dashboard1?:embed=y&:display_count=yes). 
-The first order of business was to organize the data in order to display a map of crimes. 
+See the dashboard I am creating [here](https://public.tableau.com/views/sf_crime/Dashboard1?:embed=y&:display_count=yes). 
+For this data set, the first order of business was to organize the data in order to display a geospatial map of crimes committed. 
 Second, in addition to geospatial data, this data set also includes time series data so I began plotting crimes as function of time.
+Again, this is just practice for me to being interacting with Tableau and a gallery of other peoples creative efforts can be viewed on the [public.tableau](https://public.tableau.com/en-us/s/gallery) website. 
 
 
 
