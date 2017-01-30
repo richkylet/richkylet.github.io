@@ -25,7 +25,7 @@ Again, this is just practice for me to being interacting with Tableau and a gall
 
 
 
-#### Acknowledgements
-##### Kaggle is hosting this competition for the machine learning community to use for fun and practice. This dataset is brought to you by [SF OpenData](https://data.sfgov.org/), the central clearinghouse for data published by the City and County of San Francisco.
+### Acknowledgements
+#### Kaggle is hosting this competition for the machine learning community to use for fun and practice. This dataset is brought to you by [SF OpenData](https://data.sfgov.org/), the central clearinghouse for data published by the City and County of San Francisco.
 
 
