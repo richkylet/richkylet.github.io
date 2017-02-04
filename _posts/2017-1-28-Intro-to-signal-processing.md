@@ -12,7 +12,10 @@ published: true
 
 **Basic description:** Collection of basic examples of introductory signal processing in Python ([repository here](https://github.com/richkylet/signal-processing-iPython)). 
 This is a growing collection of minimal working examples displaying how to employ signal processing techniques using Python. 
-Included is the employment of useful packages (numpy, etc) and functions (fft, etc) that may be useful either to those that are new to Python or to signal processing. 
+
+What this is _not_ is an introductory signal processing book. 
+Rather, this is an introduction to _implementing_ tools in Python to conduct basic signal processing concepts with visualization.  
+Included is the employment of useful packages (numpy, Matplotlib etc) and functions (fft, etc) that may be useful either to those that are new to Python or to signal processing. 
 
 Descriptions, basic explanation, and visualizations are given for 
 (1) [time domain signals and waves](https://github.com/richkylet/signal-processing-iPython/blob/master/01_introSound.ipynb),
