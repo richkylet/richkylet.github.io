@@ -19,10 +19,15 @@ Included is the employment of useful packages (numpy, Matplotlib etc) and functi
 
 Descriptions, basic explanation, and visualizations are given for 
 (1) [time domain signals and waves](https://github.com/richkylet/signal-processing-iPython/blob/master/01_introSound.ipynb),
+
 (2) [PSD estimation using FFT](https://github.com/richkylet/signal-processing-iPython/blob/master/02_PSD_estimation.ipynb), 
+
 (3) [Aliasing](https://github.com/richkylet/signal-processing-iPython/blob/master/03_FourierTransformAlias.ipynb), 
+
 (4) [Windowing functions](https://github.com/richkylet/signal-processing-iPython/blob/master/04_WindowSpec.ipynb), 
-(5) [spectrogram generation](https://github.com/richkylet/signal-processing-iPython/blob/master/05_Spectrogram.ipynb), and 
+
+(5) [spectrogram generation](https://github.com/richkylet/signal-processing-iPython/blob/master/05_Spectrogram.ipynb), 
+
 (6) [signal filtering](https://github.com/richkylet/signal-processing-iPython/blob/master/06_Filtering.ipynb). 
 
 
