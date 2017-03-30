@@ -25,11 +25,11 @@ Descriptions, basic explanation, and visualizations are given for:
 
  (3) [Sampling and Aliasing](https://github.com/richkylet/signal-processing-iPython/blob/master/03_FourierTransformAlias.ipynb), 
 
- (4) [Windowing functions](https://github.com/richkylet/signal-processing-iPython/blob/master/04_Windowing.ipynb), 
+ (4) [Signal windowing](https://github.com/richkylet/signal-processing-iPython/blob/master/04_Windowing.ipynb), 
 
- (5) [spectrogram generation](https://github.com/richkylet/signal-processing-iPython/blob/master/05_Spectrogram.ipynb), 
+ (5) [Spectrogram generation](https://github.com/richkylet/signal-processing-iPython/blob/master/05_Spectrogram.ipynb), 
 
- (6) [signal filtering](https://github.com/richkylet/signal-processing-iPython/blob/master/06_Filtering.ipynb). 
+ (6) [Signal filtering](https://github.com/richkylet/signal-processing-iPython/blob/master/06_Filtering.ipynb). 
 
 
 
