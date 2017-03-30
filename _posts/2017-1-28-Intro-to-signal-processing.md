@@ -25,7 +25,7 @@ Descriptions, basic explanation, and visualizations are given for:
 
  (3) [Aliasing](https://github.com/richkylet/signal-processing-iPython/blob/master/03_FourierTransformAlias.ipynb), 
 
- (4) [Windowing functions](https://github.com/richkylet/signal-processing-iPython/blob/master/04_WindowSpec.ipynb), 
+ (4) [Windowing functions](https://github.com/richkylet/signal-processing-iPython/blob/master/04_Windowing.ipynb), 
 
  (5) [spectrogram generation](https://github.com/richkylet/signal-processing-iPython/blob/master/05_Spectrogram.ipynb), 
 
