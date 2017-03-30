@@ -23,7 +23,7 @@ Descriptions, basic explanation, and visualizations are given for:
 
  (2) [PSD estimation using FFT](https://github.com/richkylet/signal-processing-iPython/blob/master/02_PSD_estimation.ipynb), 
 
- (3) [Aliasing](https://github.com/richkylet/signal-processing-iPython/blob/master/03_FourierTransformAlias.ipynb), 
+ (3) [Sampling and Aliasing](https://github.com/richkylet/signal-processing-iPython/blob/master/03_FourierTransformAlias.ipynb), 
 
  (4) [Windowing functions](https://github.com/richkylet/signal-processing-iPython/blob/master/04_Windowing.ipynb), 
 
